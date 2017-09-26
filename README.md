@@ -10,6 +10,7 @@ https://facebook.github.io/react/
 https://nodejs.org/en/
 https://expressjs.com/en/starter/installing.html
 http://docs.sequelizejs.com/
+
 #===useful tools===
 https://www.digitalocean.com/ (use this as vm if you dont wanna use duke vm)
 https://www.sequelpro.com/
