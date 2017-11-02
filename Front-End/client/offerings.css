@@ -1,0 +1,11 @@
+.Offering_details {
+  font-size: 20px;
+  background-color: lightblue;
+  background-position: center;
+  width: 600px;
+  padding: 30px 75px 30px;
+  margin-left: 200px;
+  border:green solid;
+  padding-bottom: 50px;
+  margin-bottom: 50px;
+}
