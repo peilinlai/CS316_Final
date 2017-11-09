@@ -1,5 +1,8 @@
 # CS316_Final
 
+Back-end stuff is mostly based on this guy's post:
+http://mherman.org/blog/2015/10/22/node-postgres-sequelize/#.WgOa4rCnFE4 
+
 #what is a web server and why we need it
 https://www.thewebkitchen.co.uk/whatisawebserver/
 
@@ -21,5 +24,3 @@ Basic Idea:
 Search West Union's food. 
 login feature (Student for rating, restaurant for updating the menu) 
 
-Node.JS
-https://nodejs.org/en/about/
