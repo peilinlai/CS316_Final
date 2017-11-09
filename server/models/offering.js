@@ -2,10 +2,9 @@
 module.exports = function(sequelize, DataTypes) {
   var Offering = sequelize.define('Offering', {
     RestaurantId: DataTypes.INTEGER,
-    FoodId: DataTypes.INTEGER,
-    name: DataTypes.STRING,
-    price: DataTypes.FLOAT,
-    rating: DataTypes.FLOAT
+    offering_name: DataTypes.STRING,
+    offering_price: DataTypes.FLOAT,
+    offering_rating: DataTypes.FLOAT
   }, {
     classMethods: {
       associate: function(models) {

@@ -11,16 +11,13 @@ module.exports = {
       RestaurantId: {
         type: Sequelize.INTEGER
       },
-      FoodId: {
-        type: Sequelize.INTEGER
-      },
-      name: {
+      offering_name: {
         type: Sequelize.STRING
       },
-      price: {
+      offering_price: {
         type: Sequelize.FLOAT
       },
-      rating: {
+      offering_rating: {
         type: Sequelize.FLOAT
       },
       createdAt: {
